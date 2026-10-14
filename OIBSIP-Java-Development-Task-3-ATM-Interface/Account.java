@@ -1,4 +1,3 @@
-```java
 package atminterface;
 import java.util.Scanner;
 public class ATM {
@@ -33,4 +32,3 @@ System.out.println("Invalid choice");
 sc.close();
 }
 }
-```
